@@ -9,7 +9,7 @@ permissions:
   contents: read
 jobs:
   build-and-restore:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     defaults:
       run:
         working-directory: apps/framework-v5
@@ -62,7 +62,7 @@ jobs:
 
   independent-restore-no-external-requests:
     needs: build-and-restore
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/download-artifact@v4
         with:
