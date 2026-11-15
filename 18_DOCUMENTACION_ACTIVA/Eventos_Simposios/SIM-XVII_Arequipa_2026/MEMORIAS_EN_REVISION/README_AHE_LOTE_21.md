@@ -1,3 +1,7 @@
+> **ACTUALIZACIÓN DE ESTADO · 2026-11-15 (posterior al PR #18):** El texto original siguiente describe el estado **previo a la publicación** y se conserva por trazabilidad histórica. El [PR #18](https://github.com/ricardojuanmorales/rideg-101/pull/18) fue fusionado y los 21 documentos están ahora accesibles en `main`; sus 21 rutas y tamaños se cotejaron contra el manifiesto. La declaración AHE ampliada abarcó intervenciones de terceros y entrevista no validada, pero no se adjuntaron pruebas individuales independientes de permisos. Véase la verificación posterior en `18_DOCUMENTACION_ACTIVA/Cierres_Reportes/2026-11-15_Verificacion_PostMerge_PR18_Corpus_XVII_v1_0.md`.
+
+---
+
 # Paquete AHE de integración GitHub · RIDEG 101 XVII · 2026-11-15
 
 **Este ZIP es un bloque de preparación para revisión humana, NO un commit ni publicación realizada.**
